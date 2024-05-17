@@ -4,5 +4,5 @@
 
 1. `Server/bin` 파일 위치에서 `start rmiregistry` 실행합니다.
 2. `Data/bin` 파일 위치에서 `java Data`를 실행합니다.
-3. `Server/bin` 파일 위치에서 `java Server`를 실행합니다.
-4. `Client/bin` 파일 위치에서 `java Client`를 실행합니다.
+3. `Server/bin` 파일 위치에서 `java server.Server`를 실행합니다.
+4. `Client/bin` 파일 위치에서 `java client.Client`를 실행합니다.
